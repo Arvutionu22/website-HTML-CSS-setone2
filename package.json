@@ -1,0 +1,24 @@
+{
+  "name": "setone2",
+  "version": "1.0.0",
+  "description": "demo kaks",
+  "main": "index.js",
+  "scripts": {
+    "test": "proovi ver kaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arvutionu22/website-HTML-CSS-setone2.git"
+  },
+  "keywords": [
+    "Arvutionu22",
+    "SetOne",
+    "kaks"
+  ],
+  "author": "Arvutionu22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvutionu22/website-HTML-CSS-setone2/issues"
+  },
+  "homepage": "https://github.com/Arvutionu22/website-HTML-CSS-setone2#readme"
+}
